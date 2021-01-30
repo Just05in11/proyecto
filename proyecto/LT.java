@@ -1,4 +1,4 @@
-package ejemplomenu; // Canviau-ho pel vostre package <----
+package proyecto; // Canviau-ho pel vostre package <----
 
 import java.io.BufferedReader;
 import java.io.IOException;
